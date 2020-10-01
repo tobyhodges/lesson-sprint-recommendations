@@ -1,5 +1,4 @@
-# lesson-sprint-recommendations
-How to organise and run a lesson development sprint
+# Lesson Sprint Recommendations
 
 Recommendations for those who want to organise a coordinated effort to create/improve their lesson materials.
 
