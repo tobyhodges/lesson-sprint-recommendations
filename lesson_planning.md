@@ -3,7 +3,7 @@
 
 It's important to discuss and decide as a group what you are intending to build, who it is for, and how you are going to do it. This will avoid false assumptions and set expectations with collaborators, so you should aim to have the following before your sprint:
 
-- **Understand your target audience.** In order to produce lessons of value, you should understand and define who the lesson is for, and ideally how they will benefit. See the following for different examples of how this can be done:
+- **Understand your target audience.** In order to produce lessons of value, you should understand and define [who the lesson is for, and ideally how they will benefit](lesson-sprint-recommendations#target_audience). See the following for different examples of how this can be done:
     - https://softwaresaved.github.io/swc-intermediate-lesson/ - for a lightweight view of target audience expectations.
     - https://carpentries-incubator.github.io/building-websites-with-jekyll-and-github-or-gitlab/ - for a more detailed example, complete with hypothetical but relatable learner profiles.
 - **Develop an overall narrative for the lesson**. Based on your target audience, think of the story you want to tell them, and how the lesson will help them. This could be in the form of a set of ordered topics they will learn about. This will inform your high level objectives.
