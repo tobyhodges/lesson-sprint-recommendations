@@ -45,3 +45,20 @@
   to sprint participants by making use of threaded conversations.
   This will allow contributors to focus on their chosen task unless involved in
   a conversation directly relevant to them.
+
+If you are developing your lesson on GitHub:
+
+- **Flag Pull Requests as draft and ready for review as you work.**
+  Opening draft Pull Requests early, while work on a task is ongoing, 
+  can help contributors understand where progress is being made and identify
+  tasks/issues that still need to be tackled.
+  Marking Pull Requests as ready for review helps maintainers prioritise their
+  focus during the sprint and maintains momentum by ensuring that completed work 
+  is merged into the lesson as soon as possible.
+  Opening draft pull requests is particularly important at the end of a sprint,
+  to capture progress up to that point even if a task hasn't yet been completed.
+- **Link Pull Requests to open issues.**
+  Mentioning open issues in Pull Requests (even when a work in progress) 
+  informs people about which issues are being worked on.
+  As mentioned in the point above, this is particularly useful to ensure progress
+  can continue on the lesson after the sprint has finished.
