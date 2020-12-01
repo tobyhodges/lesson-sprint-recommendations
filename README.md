@@ -2,6 +2,13 @@
 
 Recommendations for those who want to organise a coordinated effort to create/improve their lesson materials.
 
+## Contents
+
+- [Recommendations for what to do **before** a lesson sprint](before.md)
+- [Recommendations for what to do **during** a lesson sprint](during.md)
+- [Recommendations for what to do **after** a lesson sprint](after.md)
+- [Recommended **tools** that may help you when planning and runnning a lesson sprint](tools.md)
+
 ## Target Audience
 
 The target reader is one of the lead developers/maintainers of a lesson under development. 
@@ -21,3 +28,5 @@ Provide practical tips and more theoretical guidance about how to:
 - make the most of a dedicated lesson sprint
 - create coherent lesson material from individual contributions made during the sprint
 - engage contributors before, during, and after the lesson sprint
+
+
