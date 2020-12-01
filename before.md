@@ -1,8 +1,7 @@
 # Before the Sprint
 
 - **Create a curriculum development committee.**
-  Including community representatives ensuring the lesson remains beneficial and conected to the target audience. Even if this is only two people, it is helpful to share the workload
-  and responsibilities. Example roles: 
+  This should include community representatives ensuring the lesson remains beneficial and conected to the target audience. Even if this is only two people, it is helpful to share the workload and responsibilities, for example: 
      - senior supplier (part of the decission process and high-level decision maker)
      - lesson architect (main lesson designer), 
      - community representative (validating the material being created at a high level, what should be in the lessons, answering questions about the community and domain and validating that objectives have been met after each sprint and overall),
