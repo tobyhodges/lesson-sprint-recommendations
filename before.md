@@ -2,10 +2,10 @@
 
 - **Create a curriculum development committee.**
   This should include community representatives ensuring the lesson remains beneficial and conected to the target audience. Even if this is only two people, it is helpful to share the workload and responsibilities, for example: 
-     - senior supplier (part of the decission process and high-level decision maker)
+     - senior supplier (part of the decission process and high-level decision maker),
      - lesson architect (main lesson designer), 
      - community representative (validating the material being created at a high level, what should be in the lessons, answering questions about the community and domain and validating that objectives have been met after each sprint and overall),
-     - other lesson contributers from the development team who wish to be involved
+     - other lesson contributers from the development team who wish to be involved,
      - notetaker.
 - **Agree on a code of conduct.** If your lesson repository already has a code of conduct,
   apply it to the sprint and associated events too. If your lesson repository does not already have a code of conduct, add one. Like licenses, we do not recommend that you write your own code of conduct from scratch. Instead, re-use/adapt an existing text you find online. We recommend
