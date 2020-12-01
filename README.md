@@ -4,6 +4,7 @@ Recommendations for those who want to organise a coordinated effort to create/im
 
 ## Contents
 
+- [Planning your lesson](lesson_planning.md)
 - [Recommendations for what to do **before** a lesson sprint](before.md)
 - [Recommendations for what to do **during** a lesson sprint](during.md)
 - [Recommendations for what to do **after** a lesson sprint](after.md)
