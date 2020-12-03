@@ -40,5 +40,10 @@
   a meeting planner suggesting suitable times for events with attendees in multiple regions,
   an event announcement system displaying the start time and date of an event converted to the visitor's locale,
   and a time zone converter to check what time it is right now in another location around the world.
-- Curriculum Development Handbook
+- [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/)
+  provides an overview of the backwards lesson design approach recommended for lesson development by The Carpentries.
+  It includes guidance on identifying the target audience of your lesson,
+  defining meaningful learning objectives,
+  designing appropriate examples and exercises,
+  and the various stages of the lesson life cycle.
 - Slack
