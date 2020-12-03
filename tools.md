@@ -34,6 +34,11 @@
   Useful features include threaded comments,
   a mode for suggesting changes instead of directly editing the document,
   and visual formatting without the need for text markup.
-- timeanddate.com
+- [timeanddate.com](https://www.timeanddate.com/)
+  provides many services related to conversion between time zones.
+  Useful features include 
+  a meeting planner suggesting suitable times for events with attendees in multiple regions,
+  an event announcement system displaying the start time and date of an event converted to the visitor's locale,
+  and a time zone converter to check what time it is right now in another location around the world.
 - Curriculum Development Handbook
 - Slack
