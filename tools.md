@@ -13,8 +13,27 @@
   allowing contributors to begin working on a project without needing to
   deal with this overhead on their local machine.
   [The GitPod documentation provides instructions to configure your project to use the service](https://www.gitpod.io/docs/configuration/).
-- Etherpad
-- CodiMD
-- GoogleDocs & alternatives
+- Shared note-taking tools:
+  - [Etherpad](https://etherpad.org/)
+  provides a relatively simple shared note-taking interface.
+  Useful features include 
+  colouring to differentiate contributions from individual participants,
+  an integrated chat window,
+  and line numbering.
+  Open Etherpad services include FIXME
+  - [HedgeDoc](https://hedgedoc.org/) (formerly CodiMD)
+  provides an interface for collaborative writing in Markdown.
+  Useful features include
+  a split-panel view for simultaneous editing and previewing,
+  built-in support for concept mapping with [GraphViz](http://graphviz.org/) and
+  [Mermaid.js](https://mermaid-js.github.io/mermaid/#/),
+  and line numbering.
+  - [Google Docs](https://docs.google.com/)
+  provides an interface for collaborative writing similar 
+  word processing software such as Microsoft Word.
+  Useful features include threaded comments,
+  a mode for suggesting changes instead of directly editing the document,
+  and visual formatting without the need for text markup.
 - timeanddate.com
 - Curriculum Development Handbook
+- Slack
