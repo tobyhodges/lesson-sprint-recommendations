@@ -46,4 +46,12 @@
   defining meaningful learning objectives,
   designing appropriate examples and exercises,
   and the various stages of the lesson life cycle.
-- Slack
+- [Slack](https://slack.com/)
+  provides a workplace messaging platform for threaded text discussion.
+  Useful features include multiple open and private channels,
+  document and image sharing,
+  and a wide range of plugins to interface with other systems.
+  Some features require a paid subscription.
+  Members of The Carpentries community can
+  create a channel for discussion around development of their lesson in
+  [the organisation's Slack workspace](https://swc-slack-invite.herokuapp.com/)
