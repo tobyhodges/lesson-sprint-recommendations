@@ -32,7 +32,7 @@
   or contribute your changes directly in a [new Pull Request](https://github.com/tobyhodges/lesson-sprint-recommendations/pulls).
 
 
-## GitHub
+## Recommendations for GitHub
 
 - **Capture outstanding tasks in new issues on the lesson repository.** 
   You may also wish to assign these to specific contributors for follow up after the sprint.
