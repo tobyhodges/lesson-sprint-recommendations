@@ -31,6 +31,12 @@
     - Conversely, you may want to avoid planning the sprint that clashes with another event
     if your team is going to be engaged elsewhere or have other commitments.
 - **Consider promoting the sprint.** Generally, you might want to promote your upcoming sprint to attract other contributors.
+- **Provide time zone-converted event times for remote participants.**
+  For sprints running online with the potential for participants from multiple
+  regions/time zones,
+  it is vital to announce time(s) and date(s) for your sprint in a way that
+  allows visitors to see the equivalent in their local time.
+  Using tools like [timeanddate.com](https://timeanddate.com) can make this much easier.
 - **Block time in your calendar _after_ the sprint** for wrap-up/follow-up tasks.
 - **Create operational guidance for the sprint.**
     - Define roles to make sure everyone is included and gets a chance to contribute, e.g.
