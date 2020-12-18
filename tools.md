@@ -55,3 +55,7 @@
   Members of The Carpentries community can
   create a channel for discussion around development of their lesson in
   [the organisation's Slack workspace](https://swc-slack-invite.herokuapp.com/)
+
+## Further reading
+
+These and many other tools that could be useful for organising and running your sprint are also described in [the Tools for Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html) chapter of [The Turing Way](https://the-turing-way.netlify.app/). 
