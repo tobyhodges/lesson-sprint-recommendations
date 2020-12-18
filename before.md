@@ -41,7 +41,7 @@
 - **Create operational guidance for the sprint.**
     - Define roles to make sure everyone is included and gets a chance to contribute, e.g.
         - Sprint facilitator (to make sure discussions are on track)
-        - Issue reporter (to make sure all issues are reported and assigned)
+        - Issue reporter (to make sure all issues/tasks are reported and assigned)
         - Time keeper (to make sure activities are kept to time)
         - Note taker (dedicated and/or everyone)
     - You may choose to rotate the roles during the sprint check-ins.
@@ -55,13 +55,32 @@
   the setup required to work on the lesson
   (e.g. local builds to preview lesson webpages),
   and the communication channels that will be used during and in-between the sprint sessions.
-- **Consider running a skill-up session for contributors.**
-  If your lesson repository is hosted on GitHub or a similar online platform,
-  contributors may benefit from learning/being reminded how to use the platform and the associated tools on their local system.
-  Providing a session/resources on this will also make your sprint less intimidating for newcomers to lesson development, which may increase participation.
-  TODO link to recommended resources on this - e.g a link to our Jekyll lesson.
 - **Prepare a video call link for all sprint sessions.** If your sprint is taking place across multiple sessions,
   or will include multiple video calls between participants, try to provide a single meeting link for them all.
   This will save contributors time when returning to the sprint calls, e.g. for a check-in session or after a break.
 
 There is a number of tools that in combination could be used for running effective curriculum development sprints - we cover a good number of tried and tested technologies under [the tools section](tools.md).
+
+## Recommendations for GitHub
+
+- **Review open issues on your lesson repository** before the sprint
+  and consider flagging existing issues and opening new ones to describe tasks
+  that could be tackled during the event.
+  [GitHub Projects](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards)
+  can help with this,
+  allowing you to tag particular issues within scope for the sprint
+  and even organise them further into categories to help contributors find something to work on.
+  Even if you cannot invest time into managing issues to this extent,
+  make sure open issues include all the contextual information necessary
+  for a new or part-time contributor to understand what needs doing
+  and whether they can help.
+- **Consider running a skill-up session for contributors.**
+  Depending on their previous experience with the platform,
+  contributors may benefit from learning/being reminded how to use GitHub,
+  working on branches/forks,
+  and the associated tools on their local system.
+  Providing a session/resources on this will also make your sprint less
+  intimidating for newcomers to lesson development,
+  which may increase participation.
+  [GitPod](https://gitpod.io/) may offer a way for participants to contribute to the lesson
+  without the need for setting up a local development environment.
