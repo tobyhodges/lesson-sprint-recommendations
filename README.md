@@ -36,3 +36,11 @@ Provide practical tips and more theoretical guidance about how to:
 - engage contributors before, during, and after the lesson sprint
 
 Targed audience and high level objectives are among the first things to settle on as part of your [lesson planning process](lesson_planning.md).
+
+
+## Further Reading
+
+- The [Guide for Collaboration](https://the-turing-way.netlify.app/collaboration/collaboration.html) section of The Turing Way has many more recommendations and guides to help your team collaborate effectively. [Many other sections of the book](https://the-turing-way.netlify.app/welcome.html) are also relevant.
+- The Turing Way's [process for organising and running a Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) has many similarities to the recommendations made here for lesson sprints. We recommend that you explore this resource, which also includes checklist and schedule templates that could fit a lesson sprint with some minor adjustments.
+- In addition to [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/) already mentioned above, Greg Wilson's [Teaching Tech Together](https://teachtogether.tech) provides a more in-depth overview of the reverse design approach to lesson development as well as many useful pointers for teaching and collaborating.
+- [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/) is another valuable source of advice for writing and teaching lessons.
