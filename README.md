@@ -2,7 +2,7 @@
 
 Recommendations for those who want to organise a coordinated, synchronous effort to create/improve their lesson materials.
 
-The recommendations are relevant to a lesson sprint consisting of a single session or in multiple sessions with breaks between, whether on one day or multiple consecutive days. We have tried to note where a particular recommendation is only relevant or particularly relevant to a sprint being run across multiple days/sessions. These recommendations were written with a particular focus on sprints taking place virtually, i.e. with participants meeting by video conference, but many of the recommendations (especially those in the [Before](before) and [After](after) sections) are also relevant to in-person events.
+The recommendations are relevant to a lesson sprint consisting of a single session or in multiple sessions with breaks between, whether on one day or multiple consecutive days. We have tried to note where a particular recommendation is only relevant or particularly relevant to a sprint being run across multiple days/sessions. These recommendations were written with a particular focus on sprints taking place virtually, i.e. with participants meeting by video conference, but many of the recommendations (especially those in the [Before](before.md) and [After](after.md) sections) are also relevant to in-person events.
 
 
 ## Contents
