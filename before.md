@@ -2,6 +2,7 @@
 
 - **Create an organising committee for the sprint.** Organising and running the sprint will be much easier if you have some help.
   If possible, create an organising committee of 2+ people responsible for making the sprint happen.
+  If you have more than 2-3 people, be sure to assign roles to avoid diffusion of reponsbility.
 - **Agree on a code of conduct.** If your lesson repository already has a code of conduct,
   apply it to the sprint and associated events too.
   If your lesson repository does not already have a code of conduct, add one.
