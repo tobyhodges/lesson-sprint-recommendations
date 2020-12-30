@@ -47,7 +47,7 @@
   providing a quick overview of ways to get involved that have a low barrier for entry.
   Other labels can be used in a similar way to automatically display listings of issues to potential contributors.
   For example, The Carpentries publishes [a Help Wanted page](https://carpentries.org/help-wanted-issues/) that provides their community with an overview of
-  open issues with the "hel-wanted" label on many of their repositories.
+  open issues with the "help-wanted" label on many of their repositories.
 - **Clean up branches on your repository.**
   Sprints often leave behind a large number of merged branches that can be removed from the lesson repository.
   Minimising the number of "stale" branches reduces clutter on your repository
