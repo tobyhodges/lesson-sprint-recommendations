@@ -45,6 +45,10 @@
   to sprint participants by making use of threaded conversations.
   This will allow contributors to focus on their chosen task unless involved in
   a conversation directly relevant to them.
+- **Prep breakout rooms for small group discussion and co-working between check-ins.**
+  Open a small number of break out rooms for sprint participants to use during working sessions.
+  This allows the participants to self-organize if they need to discuss something they are working on or co-work on a particular task.
+  In Zoom, select the option to "Let participants choose room".
 - **Provide a way for contributors to mark their work ready for review.**
   If you prefer to require material is reviewed before being included in the lesson,
   give participants a way to signal when their contributions are ready.
