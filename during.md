@@ -68,6 +68,11 @@
   is merged into the lesson as soon as possible.
   Opening draft pull requests is particularly important at the end of a sprint,
   to capture progress up to that point even if a task hasn't yet been completed.
+- **Plan who will review Pull Requests.**
+  Make a plan for who will review each Pull Request.
+  As a group you can create list of reviewers by subject so the person who opens the Pull Request knows who is interested and capable of reviewing and can request a review accordingly.
+  Alternatively, you may decide on a circle of reviewers. E.g. Aaliyah reviews Juan's PRs, Juan reviews Alex's PRs, and Alex reviews Aaliyah's PRs.
+  Another option might be to ask for a reviewer when planning who will do the task.
 - **Link Pull Requests to open issues.**
   Mentioning open issues in Pull Requests (even when a work in progress)
   informs people about which issues are being worked on.
