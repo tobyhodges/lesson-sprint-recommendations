@@ -35,7 +35,7 @@ Provide practical tips and more theoretical guidance about how to:
 - create coherent lesson material from individual contributions made during the sprint
 - engage contributors before, during, and after the lesson sprint
 
-Targed audience and high level objectives are among the first things to settle on as part of your [lesson planning process](lesson_planning.md).
+Target audience and high level objectives are among the first things to settle on as part of your [lesson planning process](lesson_planning.md).
 
 
 ## Further Reading
