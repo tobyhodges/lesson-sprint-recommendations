@@ -13,6 +13,9 @@
 - **Have a meeting/video call between the committee** to agree on the timing, format,
   target audience in suffient detail and high-level objectives of your sprint,
   establish communications norms, and divide responsibilities. (See below for more details.)
+- **Consider participants' roles and expertise.** 
+  - Do you have a team with diverse skillsets and topic knowledge required to meet your high-level objectives? If not, consider finding and inviting other people.
+  - Consider the power dynamics in the group, e.g. if you have a PI and a early-career PhD candidate participating, how they can contribute effectively and comfortably.
 - **Establish communication channels and norms.** How will collaborators communicate before, during, and after the sprint?
     - Dedicated messaging channels have been used with success for conversations/short updates during the sprint and in-between sprint conversations.
     See [During the Sprint](/during.md) for more details.
@@ -32,6 +35,7 @@
     - Conversely, you may want to avoid planning the sprint that clashes with another event
     if your team is going to be engaged elsewhere or have other commitments.
 - **Consider promoting the sprint.** Generally, you might want to promote your upcoming sprint to attract other contributors.
+    - Consider whether you need a system to track participation for the Sprint, e.g. a Google Form/Eventbrite page
 - **Provide time zone-converted event times for remote participants.**
   For sprints running online with the potential for participants from multiple
   regions/time zones,
@@ -59,6 +63,10 @@
 - **Prepare a video call link for all sprint sessions.** If your sprint is taking place across multiple sessions,
   or will include multiple video calls between participants, try to provide a single meeting link for them all.
   This will save contributors time when returning to the sprint calls, e.g. for a check-in session or after a break.
+- **Communicate participation information and send reminders before the Sprint**
+    - Send short reminders a week and a day before the Sprint, with time and date, video conferencing URL, note docs and any prior preparation work
+    - If prior reading/preparation is required, give at least a week lead time
+    - Think of a way to let participants withdraw their participation/leave early/join late comfortably; this helps especially for folks juggling with multiple responsibilities
 
 There is a number of tools that in combination could be used for running effective curriculum development sprints - we cover a good number of tried and tested technologies under [the tools section](tools.md).
 
