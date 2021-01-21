@@ -3,7 +3,7 @@
 - **Set up a place for shared note-taking.**
   This document should be visible to all participants
   and persist beyond the end of the sprint.
-- **Start the video conference call 10 mins early** especially to allow newcomers and first-time participants to familiarise with tools, test audio and video set up, warm up, etc.
+- **Start the video conference call 10 mins ahead of official start time** especially to allow newcomers and first-time participants to familiarise with tools, test audio and video set up, warm up, etc.
 - **Hold regular, scheduled check-ins** to allow contributors to report
   on their progress, including what they've achieved,
   what's blocking their progress,
