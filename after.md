@@ -50,6 +50,5 @@
   open issues with the "help-wanted" label on many of their repositories.
 - **Clean up branches on your repository.**
   Sprints often leave behind a large number of merged branches that can be removed from the lesson repository.
-  Minimising the number of "stale" branches reduces clutter on your repository
-  and allows contributors to name their branches without fear of an unintentional clash.
-  and helps people working with local branches
+  Minimising the number of "stale" branches reduces clutter on your repository, allows contributors to name their branches without fear of an unintentional clash 
+  and helps people working with local branches.
