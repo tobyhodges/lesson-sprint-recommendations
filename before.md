@@ -59,7 +59,7 @@
 - **Prepare a video call link for all sprint sessions.** If your sprint is taking place across multiple sessions,
   or will include multiple video calls between participants, try to provide a single meeting link for them all.
   This will save contributors time when returning to the sprint calls, e.g. for a check-in session or after a break.
-- **Prepare a "sprint primer" document.** Provide participants in advance with a single document that provides all the information they need to know before joining (or deciding to join) the sprint:
+- **Prepare a "sprint primer" document and publish it.** Provide participants in advance with a single document that provides all the information they need to know before joining (or deciding to join) the sprint:
   what steps do they need to take to register,
   to attend/connect,
   to prepare?
