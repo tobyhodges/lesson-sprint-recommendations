@@ -59,6 +59,19 @@
 - **Prepare a video call link for all sprint sessions.** If your sprint is taking place across multiple sessions,
   or will include multiple video calls between participants, try to provide a single meeting link for them all.
   This will save contributors time when returning to the sprint calls, e.g. for a check-in session or after a break.
+- **Prepare a "sprint primer" document and publish it.** Provide participants in advance with a single document that provides all the information they need to know before joining (or deciding to join) the sprint:
+  what steps do they need to take to register,
+  to attend/connect,
+  to prepare?
+  What can they expect when they join?
+  What will the format be?
+  What roles will there be within the group?
+  In what different ways can participants contribute during the sprint?
+  What channels will be used for communication?
+  What is the schedule?
+  Take everything you have been preparing from the other recommendations in this list and put all that information into this document so your (potential) participants can refer to it before and during the sprint.
+  See [this primer document from the CarpentryCon@Home 2020 sprint](https://docs.google.com/document/d/1IwnClDjruY9yLmJEUjz-JvRptxqaLsiOTieUlgVbry8/edit?usp=sharing)
+  on [the Library Carpentry FAIR Data and Software lesson](https://librarycarpentry.org/lc-fair-research/).
 
 There is a number of tools that in combination could be used for running effective curriculum development sprints - we cover a good number of tried and tested technologies under [the tools section](tools.md).
 
