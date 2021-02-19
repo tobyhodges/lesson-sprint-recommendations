@@ -17,9 +17,11 @@
   make sure to take extensive notes in a shareable location.
 - **Assign roles for check-ins.**
   To ensure everyone has an equal chance to contribute to the discussion
-  and the sprint, assign meeting roles for the check-in calls.
+  and the sprint,
+  the lead organiser(s) should assign meeting roles for the check-in calls.
   To further promote equity of participation,
-  these roles should be rotated for each check-in call.
+  these roles should be rotated for each day of the sprint,
+  or each separate sprint event.
   Roles may include:
   - a _Facilitator_ who coordinates the discussion and keeps it moving,
     watching out for raised hands and making sure those with something to contribute
