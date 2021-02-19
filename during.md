@@ -47,24 +47,27 @@
   and gives participants a way of coordinating additional discussions
   among themselves where appropriate to make progress on a task.
 - **Use a chat channel for communication outside check-ins.**
-  To allow participants to "unplug" from video calls for the bulk of the sprint,
-  use a text-based chat such as Slack or Mattermost for discussion when not
+  To allow participants to "unplug" from video calls/move to separate locations for the bulk of the sprint,
+  use a text-based chat such as Slack or Gitter for discussion when not
   checking in.
   If your chosen platform allows it, minimise global notifications
   to sprint participants by making use of threaded conversations.
   This will allow contributors to focus on their chosen task unless involved in
   a conversation directly relevant to them.
 - **Prepare breakout rooms for small group discussion and co-working between check-ins.**
-  Open a small number of break out rooms for sprint participants to use during working sessions.
+  **[Online]** Open a small number of break out rooms for sprint participants to use during working sessions.
   This allows the participants to self-organize if they need to discuss something they are working on or co-work on a particular task.
   In Zoom, select the option to "Let participants choose room".
+  For **[in-person]** sprints, prepare an equivalent set of different rooms/locations
+  for participants to gather and discuss in smaller groups without fear of
+  disturbing the whole team.
 - **Provide a way for contributors to mark their work ready for review.**
   If you prefer to require material is reviewed before being included in the lesson,
   give participants a way to signal when their contributions are ready.
   You might consider providing guidance/assigning responsibilty for reviewers
   of particular sections/types of contribution.
   If your lesson is being developed on GitHub, see the section below for more
-  specific recommendations on this topic.
+  specific recommendations.
 - **Record information about participants and contributions.**
   Prompt participants to add their details to the shared notes,
   so you can refer to it later and ensure everyone's contributions are recorded.
@@ -100,23 +103,23 @@
   this skill-up may fit best at the beginning of the sprint,
   before the first co-working session begins, or as a separate event
   that takes place in the days leading up to the full sprint.
-- **Flag Pull Requests as draft and ready for review as you work.**
-  Opening draft Pull Requests early, while work on a task is ongoing,
+- **Flag pull requests as draft and ready for review as you work.**
+  Opening draft pull requests early, while work on a task is ongoing,
   can help contributors understand where progress is being made and identify
   tasks/issues that still need to be tackled.
-  Marking Pull Requests as ready for review helps maintainers prioritise their
+  Marking pull requests as ready for review helps maintainers prioritise their
   focus during the sprint and maintains momentum by ensuring that completed work
   is merged into the lesson as soon as possible.
   Opening draft pull requests is particularly important at the end of a sprint,
   to capture progress up to that point even if a task hasn't yet been completed.
-- **Plan who will review Pull Requests.**
-  Make a plan for who will review each Pull Request.
-  As a group you can create list of reviewers by subject so the person who opens the Pull Request knows who is interested and capable of reviewing and can request a review accordingly.
+- **Plan who will review pull requests.**
+  Make a plan for who will review each pull request.
+  As a group you can create list of reviewers by subject so the person who opens the pull request knows who is interested and capable of reviewing and can request a review accordingly.
   Alternatively, you may decide on a circle of reviewers. E.g. Aaliyah reviews Juan's PRs, Juan reviews Alex's PRs, and Alex reviews Aaliyah's PRs.
   Another option might be to ask for a reviewer when planning who will do the task.
   For particularly small groups where reviewing is more likely to become a bottleneck, or in cases where the main objective of the sprint is to create quantity rather than quality, you may decide it is acceptable for contributors to merge their own pull requests.
-- **Link Pull Requests to open issues.**
-  Mentioning open issues in Pull Requests (even when a work in progress)
+- **Link pull requests to open issues.**
+  Mentioning open issues in pull requests (even when a work in progress)
   informs people about which issues are being worked on.
   As mentioned in the point above, this is particularly useful to ensure progress
   can continue on the lesson after the sprint has finished.
@@ -128,6 +131,6 @@
   make sure their name and other details are included in your README, AUTHORS,
   or any other listing/metadata about contributors to the project
   (`.zenodo.json`, `.allcontributorsrc`, etc).
-- **Review open Pull Requests.**
-  At the end of the sprint, organisers should ensure that any Pull Requests marked as ready for review are processed and (where appropriate) merged,
+- **Review open pull requests.**
+  At the end of the sprint, organisers should ensure that any pull requests marked as ready for review are processed and (where appropriate) merged,
   so that these contributions are not forgotten or left to go stale before changes can be requested.

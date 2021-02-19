@@ -24,7 +24,7 @@
     - Dedicated messaging channels have been used with success for conversations/short updates during the sprint and in-between sprint conversations.
     See [During the Sprint](/during.md) for more details.
     - Mailing lists for initial organisation and other important and more permanent communication, e.g. scheduling meetings.
-    - Video conferencing technology that is an accessible choice for everyone and suitable for the format of the sprint.
+    - **[Online]** Video conferencing technology that is an accessible choice for everyone and suitable for the format of the sprint.
     - Collaborative note taking platform suitable for recording and communicating decisions, minutes and actions from meetings.
 - **Read about good practices in lesson design.** To make sure your lesson is as effective as possible,
   consult [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org)
@@ -32,37 +32,32 @@
 - **Think about the timing of your sprint.**
     - Is there any upcoming event, e.g. a conference/meeting that many in your community will already be engaged with,
     which you could run the sprint in conjunction with?
-    - If you would like to attract new contributors, this will make it easier to get people's attention and
+    If you would like to attract new contributors, this will make it easier to get people's attention and
     convince them to block time in their calendar to join in with the sprint.
-    - You may also be able to tap into the promotional communications etc. for that event,
+    You may also be able to tap into the promotional communications etc. for that event,
     and/or invite people to join the sprint, e.g. via a lightning talk or poster.
-    - Conversely, you may want to avoid planning the sprint that clashes with another event
+    - Conversely, you may want to avoid clashes with another event
     if your team is going to be engaged elsewhere or have other commitments.
-- **Consider promoting the sprint.** Generally, you might want to promote your upcoming sprint to attract other contributors.
+- **Consider promoting the sprint.** You might want to promote your upcoming sprint to attract contributors beyond your current team.
 - **Provide time zone-converted event times for remote participants.**
-  For sprints running online with the potential for participants from multiple
+  **[Online]** For sprints running online with the potential for participants from multiple
   regions/time zones,
   it is vital to announce time(s) and date(s) for your sprint in a way that
   allows visitors to see the equivalent in their local time.
-  Using tools like [timeanddate.com](https://timeanddate.com) can make this much easier.
+  Always list event timings in UTC and use tools like [timeanddate.com](https://timeanddate.com) to provide automatic conversion to local time.
 - **Block time in your calendar _after_ the sprint** for wrap-up/follow-up tasks.
-- **Create operational guidance for the sprint.**
-    - Define roles to make sure everyone is included and gets a chance to contribute, e.g.
-        - Sprint facilitator (to make sure discussions are on track)
-        - Issue reporter (to make sure all issues/tasks are reported and assigned)
-        - Time keeper (to make sure activities are kept to time)
-        - Note taker (dedicated and/or everyone)
-    - You may choose to rotate the roles during the sprint check-ins.
 - **Scope out what content will be worked on.**
   Defining objectives and which sections/aspects of the lesson should be worked on during the sprint
   will reduce the energy/time required for contributors to begin working and help to keep efforts focused during the event.
   This guidance might be in the form of a list on a shared document or open issues on the lesson repository, and do not need to contain much detail.
   You do not need to micromanage individual contributions,
   but a summary of each key objective can serve as a starting point for discussions between collaborators about the best approach to reach those goals.
-- **Prepare a video call link for all sprint sessions.** If your sprint is taking place across multiple sessions,
+- **Prepare a video call link for all sprint sessions.**
+  **[Online]** If your sprint is taking place across multiple sessions,
   or will include multiple video calls between participants, try to provide a single meeting link for them all.
   This will save contributors time when returning to the sprint calls, e.g. for a check-in session or after a break.
-- **Prepare a "sprint primer" document and publish it.** Provide participants in advance with a single document that provides all the information they need to know before joining (or deciding to join) the sprint:
+- **Prepare a "sprint primer" document and publish it.**
+  Provide participants in advance with a single document that provides all the information they need to know before joining (or deciding to join) the sprint:
   what steps do they need to take to register,
   to attend/connect,
   to prepare?
