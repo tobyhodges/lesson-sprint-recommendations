@@ -1,6 +1,6 @@
 # Lesson Sprint Recommendations
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Recommendations for those who want to organise a coordinated, synchronous effort to create/improve their lesson materials.
@@ -64,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://zkamvar.netlify.com"><img src="https://avatars.githubusercontent.com/u/3639446?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhian N. Kamvar</b></sub></a><br /><a href="https://github.com/tobyhodges/lesson-sprint-recommendations/commits?author=zkamvar" title="Code">💻</a></td>
     <td align="center"><a href="https://sarahlrstevens.info"><img src="https://avatars.githubusercontent.com/u/5558419?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sarah Stevens</b></sub></a><br /><a href="https://github.com/tobyhodges/lesson-sprint-recommendations/commits?author=sstevens2" title="Code">💻</a> <a href="https://github.com/tobyhodges/lesson-sprint-recommendations/pulls?q=is%3Apr+reviewed-by%3Asstevens2" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://www.software.ac.uk/"><img src="https://avatars.githubusercontent.com/u/3900257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Steve Crouch</b></sub></a><br /><a href="https://github.com/tobyhodges/lesson-sprint-recommendations/commits?author=steve-crouch" title="Code">💻</a></td>
+    <td align="center"><a href="https://renci.org"><img src="https://avatars.githubusercontent.com/u/3680365?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Erdmann</b></sub></a><br /><a href="https://github.com/tobyhodges/lesson-sprint-recommendations/pulls?q=is%3Apr+reviewed-by%3Alibcce" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
