@@ -3,6 +3,13 @@
 - **Set up a place for shared note-taking.**
   This document should be visible to all participants
   and persist beyond the end of the sprint.
+- **Run a "sprint primer" session.** A primer session helps contributors get oriented with the structure of your lesson and its associated repository,
+  the setup required to work on the lesson
+  (e.g. local builds to preview lesson webpages),
+  and the communication channels that will be used during and in-between the sprint sessions.
+  You could run this primer session a day or two before the sprint begins,
+  or as the first session of the sprint event itself,
+  before co-working sessions begin.
 - **Hold regular, scheduled check-ins** to allow contributors to report
   on their progress, including what they've achieved,
   what's blocking their progress,
@@ -67,9 +74,32 @@
   You may also wish to record the different ways in which participants are
   contributing to the lesson during the sprint, to ensure proper credit is
   given later e.g. when publishing the lesson.
+- **Complete any remaining reviews.**
+  Sprints often end with an influx of new material, as contributors finish up what they were working on as the event closed.
+  Other material developed earlier in the sprint may be awaiting review.
+  Making sure that these are reviewed and (where appropriate) merged into the lesson
+  ensures contributors develop a sense of accomplishment from the sprint,
+  and ties up any loose ends before new tasks are taken on to develop the material further.
+  If the participants who were originally assigned to review have had to leave,
+  the organisers should take over responsibility for these reviews to ensure they
+  are completed in a timely manner.
 
 ## Recommendations for GitHub
 
+- **Consider running a skill-up session for contributors.**
+  Depending on their previous experience with the platform,
+  contributors may benefit from learning/being reminded how to use GitHub,
+  working on branches/forks,
+  and the associated tools on their local system.
+  Providing a session/resources on this will also make your sprint less
+  intimidating for newcomers to lesson development,
+  which may increase participation.
+  [GitPod](https://gitpod.io/) may offer a way for participants to contribute to the lesson
+  without the need for setting up a local development environment.
+  As with the "primer" session mentioned above,
+  this skill-up may fit best at the beginning of the sprint,
+  before the first co-working session begins, or as a separate event
+  that takes place in the days leading up to the full sprint.
 - **Flag Pull Requests as draft and ready for review as you work.**
   Opening draft Pull Requests early, while work on a task is ongoing,
   can help contributors understand where progress is being made and identify
@@ -98,3 +128,6 @@
   make sure their name and other details are included in your README, AUTHORS,
   or any other listing/metadata about contributors to the project
   (`.zenodo.json`, `.allcontributorsrc`, etc).
+- **Review open Pull Requests.**
+  At the end of the sprint, organisers should ensure that any Pull Requests marked as ready for review are processed and (where appropriate) merged,
+  so that these contributions are not forgotten or left to go stale before changes can be requested.
