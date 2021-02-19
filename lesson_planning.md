@@ -1,6 +1,7 @@
-
 # Planning a lesson checklist
 
+For a sprint to be most effective,
+it helps to have a clear, high-level plan for the lesson before the event.
 It's important to discuss and decide as a group what you are intending to build, who it is for, and how you are going to do it. This will avoid false assumptions and set expectations with collaborators, so you should aim to have the following before your sprint:
 
 - **Understand your target audience.** In order to produce lessons of value, you should understand and define who the lesson is for, and ideally how they will benefit. See the following for different examples of how this can be done:
@@ -12,6 +13,6 @@ It's important to discuss and decide as a group what you are intending to build,
 - **List of prerequisite skills for the lesson.** Knowledge that people are expected to have before starting to learn from this lesson (e.g. familiarity with the concept of version control, experience using shell to create and navigate directories). You can also include a list of specific technical tasks that people should be able to perform ahead of this course (e.g. in a form of a quiz that learners can take to gauge their knowledge and course suitability). Have a list of **anti-requirements** too, i.e. if you know these things already, this course is not for you.
 - **A group activity timeline.** Based on your understanding of the lesson's objectives, contributor's availability, planned lesson pilots and other constraints, develop a high-level timeline with scheduled sprints. This will help to motivate collaborators and set expectations of involvement.
 
-These aspects should evolve over time as plans and materials become more concrete, so it's also important to review and revise them regularly. They also form a high-level view of what's being produced so others can understand the activity and its benefits.
+These aspects should evolve over time as plans and materials become more concrete, so it's important to review and revise them regularly. They also form a high-level view of what's being produced so others can understand the activity and its benefits.
 
 There's a tendency to want to get on with writing lesson materials early without defining individual lesson objectives, but this often leads to narrative problems and issues with balancing details between topics. The next step during the sprint would be to build on these lesson objectives as a precursor to writing the materials themselves.
