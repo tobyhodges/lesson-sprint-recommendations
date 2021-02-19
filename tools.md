@@ -63,6 +63,10 @@
   Members of The Carpentries community can
   create a channel for discussion around development of their lesson in
   [the organisation's Slack workspace](https://swc-slack-invite.herokuapp.com/)
+- [Gitter](https://gitter.im/) is another instant messaging system similar to
+  Slack. It lacks some of the features of Slack but does not require a paid plan
+  to remove limits on usage and it integrates well with GitHub,
+  e.g. by allowing references to particular repositories, issues, and pull requests.
 
 ## Further reading
 
