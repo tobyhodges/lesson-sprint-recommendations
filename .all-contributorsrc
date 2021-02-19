@@ -59,6 +59,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "libcce",
+      "name": "Chris Erdmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3680365?v=4",
+      "profile": "https://renci.org",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
