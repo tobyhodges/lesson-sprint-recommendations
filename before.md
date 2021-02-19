@@ -10,6 +10,13 @@
   Instead, re-use/adapt an existing text you find online.
   We recommend [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html),
   which was designed with exactly these kinds of project in mind.
+  Assign at least one person as the contact person/facilitator for
+  matters relating to the Code of Conduct,
+  and make sure all sprint participants are aware of who this is and how they should connect with them.
+  You can do this by including their details in the "primer" information
+  you provide to participants before the event
+  and by introducing them when you mention the code of conduct
+  at the start of the sprint itself. 
 - **Have a meeting/video call between the committee** to agree on the timing, format,
   target audience in suffient detail and high-level objectives of your sprint,
   establish communications norms, and divide responsibilities. (See below for more details.)
