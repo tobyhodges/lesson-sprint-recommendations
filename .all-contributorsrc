@@ -41,6 +41,15 @@
         "code",
         "review"
       ]
+    },
+    {
+      "login": "steve-crouch",
+      "name": "Steve Crouch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3900257?v=4",
+      "profile": "http://www.software.ac.uk/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
