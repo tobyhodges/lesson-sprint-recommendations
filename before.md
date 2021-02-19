@@ -16,7 +16,7 @@
   You can do this by including their details in the "primer" information
   you provide to participants before the event
   and by introducing them when you mention the code of conduct
-  at the start of the sprint itself. 
+  at the start of the sprint itself.
 - **Have a meeting/video call between the committee** to agree on the timing, format,
   target audience in suffient detail and high-level objectives of your sprint,
   establish communications norms, and divide responsibilities. (See below for more details.)
@@ -59,10 +59,6 @@
   This guidance might be in the form of a list on a shared document or open issues on the lesson repository, and do not need to contain much detail.
   You do not need to micromanage individual contributions,
   but a summary of each key objective can serve as a starting point for discussions between collaborators about the best approach to reach those goals.
-- **Run a "sprint primer" session.** A primer session helps contributors get oriented with the structure of your lesson and its associated repository,
-  the setup required to work on the lesson
-  (e.g. local builds to preview lesson webpages),
-  and the communication channels that will be used during and in-between the sprint sessions.
 - **Prepare a video call link for all sprint sessions.** If your sprint is taking place across multiple sessions,
   or will include multiple video calls between participants, try to provide a single meeting link for them all.
   This will save contributors time when returning to the sprint calls, e.g. for a check-in session or after a break.
@@ -95,13 +91,3 @@ There is a number of tools that in combination could be used for running effecti
   make sure open issues include all the contextual information necessary
   for a new or part-time contributor to understand what needs doing
   and whether they can help.
-- **Consider running a skill-up session for contributors.**
-  Depending on their previous experience with the platform,
-  contributors may benefit from learning/being reminded how to use GitHub,
-  working on branches/forks,
-  and the associated tools on their local system.
-  Providing a session/resources on this will also make your sprint less
-  intimidating for newcomers to lesson development,
-  which may increase participation.
-  [GitPod](https://gitpod.io/) may offer a way for participants to contribute to the lesson
-  without the need for setting up a local development environment.
