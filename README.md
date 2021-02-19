@@ -1,4 +1,7 @@
 # Lesson Sprint Recommendations
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Recommendations for those who want to organise a coordinated, synchronous effort to create/improve their lesson materials.
 
@@ -46,3 +49,23 @@ Provide practical tips and more theoretical guidance about how to:
 - The Turing Way's [process for organising and running a Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) has many similarities to the recommendations made here for lesson sprints. We recommend that you explore this resource, which also includes checklist and schedule templates that could fit a lesson sprint with some minor adjustments.
 - In addition to [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/) already mentioned above, Greg Wilson's [Teaching Tech Together](https://teachtogether.tech) provides a more in-depth overview of the reverse design approach to lesson development as well as many useful pointers for teaching and collaborating.
 - [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/) is another valuable source of advice for writing and teaching lessons.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://tbyhdgs.info"><img src="https://avatars.githubusercontent.com/u/9694524?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Toby Hodges</b></sub></a><br /><a href="https://github.com/tobyhodges/lesson-sprint-recommendations/commits?author=tobyhodges" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
