@@ -84,6 +84,7 @@
   As a group you can create list of reviewers by subject so the person who opens the Pull Request knows who is interested and capable of reviewing and can request a review accordingly.
   Alternatively, you may decide on a circle of reviewers. E.g. Aaliyah reviews Juan's PRs, Juan reviews Alex's PRs, and Alex reviews Aaliyah's PRs.
   Another option might be to ask for a reviewer when planning who will do the task.
+  For particularly small groups where reviewing is more likely to become a bottleneck, or in cases where the main objective of the sprint is to create quantity rather than quality, you may decide it is acceptable for contributors to merge their own pull requests.
 - **Link Pull Requests to open issues.**
   Mentioning open issues in Pull Requests (even when a work in progress)
   informs people about which issues are being worked on.
