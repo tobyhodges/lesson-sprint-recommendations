@@ -16,7 +16,7 @@
 - Shared note-taking tools:
   - [Etherpad](https://etherpad.org/)
   provides a relatively simple shared note-taking interface.
-  Useful features include 
+  Useful features include
   colouring to differentiate contributions from individual participants,
   an integrated chat window,
   and line numbering.
@@ -28,15 +28,18 @@
   built-in support for concept mapping with [GraphViz](http://graphviz.org/) and
   [Mermaid.js](https://mermaid-js.github.io/mermaid/#/),
   and line numbering.
+  [The Carpentries provides a CodiMD instance for use in activities and events relating to their community](https://codimd.carpentries.org/),
+  and [HackMD](https://hackmd.io/) and [Cryptpad](https://cryptpad.fr/code/)
+  provide similar, free services to a general audience.
   - [Google Docs](https://docs.google.com/)
-  provides an interface for collaborative writing similar 
+  provides an interface for collaborative writing similar
   word processing software such as Microsoft Word.
   Useful features include threaded comments,
   a mode for suggesting changes instead of directly editing the document,
   and visual formatting without the need for text markup.
 - [timeanddate.com](https://www.timeanddate.com/)
   provides many services related to conversion between time zones.
-  Useful features include 
+  Useful features include
   a meeting planner suggesting suitable times for events with attendees in multiple regions,
   an event announcement system displaying the start time and date of an event converted to the visitor's locale,
   and a time zone converter to check what time it is right now in another location around the world.
@@ -58,4 +61,4 @@
 
 ## Further reading
 
-These and many other tools that could be useful for organising and running your sprint are also described in [the Tools for Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html) chapter of [The Turing Way](https://the-turing-way.netlify.app/). 
+These and many other tools that could be useful for organising and running your sprint are also described in [the Tools for Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html) chapter of [The Turing Way](https://the-turing-way.netlify.app/).
