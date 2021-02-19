@@ -13,6 +13,8 @@ The recommendations are relevant to a lesson sprint consisting of a single sessi
 - [Recommendations for what to do **after** a lesson sprint](after.md)
 - [Recommended **tools** that may help you when planning and running a lesson sprint](tools.md)
 
+Recommendations specific to sprints taking place **[Online]** and **[in-person]**
+are marked accordingly.
 
 ## Target Audience
 

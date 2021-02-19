@@ -24,7 +24,7 @@
   To tell us about changes you would like to see to these recommendations,
   please email the authors (tobyhodges at carpentries dot org),
   [open an issue](https://github.com/tobyhodges/lesson-sprint-recommendations/issues/new)
-  or contribute your changes directly in a [new Pull Request](https://github.com/tobyhodges/lesson-sprint-recommendations/pulls).
+  or contribute your changes directly in a [new pull request](https://github.com/tobyhodges/lesson-sprint-recommendations/pulls).
 
 
 ## Recommendations for GitHub
