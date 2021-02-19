@@ -58,6 +58,15 @@
   of particular sections/types of contribution.
   If your lesson is being developed on GitHub, see the section below for more
   specific recommendations on this topic.
+- **Record information about participants and contributions.**
+  Prompt participants to add their details to the shared notes,
+  so you can refer to it later and ensure everyone's contributions are recorded.
+  Information to collect might include names, affiliations, preferred pronouns,
+  Orcid identifiers, GitHub usernames, and any other identifiers/handles that
+  are relevant or frequently used in your domain.
+  You may also wish to record the different ways in which participants are
+  contributing to the lesson during the sprint, to ensure proper credit is
+  given later e.g. when publishing the lesson.
 
 ## Recommendations for GitHub
 
@@ -80,3 +89,11 @@
   informs people about which issues are being worked on.
   As mentioned in the point above, this is particularly useful to ensure progress
   can continue on the lesson after the sprint has finished.
+- **Record contributions that do not (directly) result in commits.**
+  Some participants may be more comfortable writing matrial on a different platform
+  e.g. Google Docs, which is later transferred to GitHub by someone else.
+  Make use of GitHub's [commit co-author](https://github.blog/2018-01-29-commit-together-with-co-authors/) feature where possible or,
+  if the author does not have a GitHub account,
+  make sure their name and other details are included in your README, AUTHORS,
+  or any other listing/metadata about contributors to the project
+  (`.zenodo.json`, `.allcontributorsrc`, etc).
