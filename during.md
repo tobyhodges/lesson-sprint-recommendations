@@ -1,27 +1,28 @@
 # During the Sprint
 
-- **Set up a place for shared note-taking.**
-  This document should be visible to all participants
-  and persist beyond the end of the sprint.
+- **Enable access to documents for shared note-taking.**
+  When possible store all the shareable documents in a central repository or shared drive so they are easy to find.
+  One main document should be created to share links to all the resources that will be used for the sprint.
+  This document should be kept visible to all participants and persist beyond the end of the sprint.
+  Start your event by asking people to sign-in to the shared document by providing names, Orcid identifiers, GitHub usernames, and any other identifiers/handles that can be used to acknowledge their contributions.
+  You can also ask you the participant to optionally provide their pronouns to ensure that everyone is addressed with their preferred pronouns.
 - **Run a "sprint primer" session.** A primer session helps contributors get oriented with the structure of your lesson and its associated repository,
   the setup required to work on the lesson
   (e.g. local builds to preview lesson webpages),
   and the communication channels that will be used during and in-between the sprint sessions.
-  You could run this primer session a day or two before the sprint begins,
-  or as the first session of the sprint event itself,
-  before co-working sessions begin.
-- **Hold regular, scheduled check-ins** to allow contributors to report
-  on their progress, including what they've achieved,
-  what's blocking their progress,
-  and what they intend to do next.
-- **Record the check-ins.**
+  You could run this primer session a week or two days before the sprint begins.
+  This can also be the first session of the sprint event before co-working sessions begin.
+- **Divide co-working sessions with scheduled check-ins** 
+  Plan your sprint to have several co-working sessions that are followed by check-ins or report outs to allow contributors to reflect on their progress.
+  This will also allow them to share what they've achieved, what's blocking their progress, where they would like some feedback and what they intend to do next.
+  We recommend using a web-based shared clock such as [cuckoo.team](https://cuckoo.team/) to keep track of co-working, share-out and breaks.
+- **Record/document the check-ins.**
   If technically possible, and provided all participants consent,
-  record these check-ins so that those who could not join can catch up
+  record/document these check-ins (video or written) so that those who could not join can catch up
   on the latest progress when they (re-)join the sprint.
   This is particularly important for sprints taking place
-  across multiple sessions/days and/or a wide range of timezones.
-  If you cannot record the check-in discussions,
-  make sure to take extensive notes in a shareable location.
+  across multiple sessions/days and/or a wide range of time zones.
+  These check-in discussions can end by taking extensive notes in the shared document.
 - **Assign roles for check-ins.**
   To ensure everyone has an equal chance to contribute to the discussion
   and the sprint,
@@ -37,15 +38,18 @@
     ensures that all topics are covered in a timely fashion.
     The Timekeeper prompts the
     Facilitator/speaker to move on when necessary to cover everything.
-  - an _Issue/Task Creator_, who keeps track of actions that arise
-    from the check-in discussion and creates an issue or
-    describes the task in the shared notes.
+  - an _Issue/Task Creator_, who keeps track of actions that arise from the check-in discussion and creates an issue or describes the task in the shared notes.
   - a _Notetaker_, who takes minutes of what is discussed in the check-in.
     In some instances, it may be possible to combine the roles of Notetaker and Task Creator.
-- **Make note of who is working on/is going to work on what.**
+- **Record information about participants and contributions.**
+  - When working on an online repository, you can use issues to describe and assign tasks.
+  This can also be directly done on the shared notes that everyone has access to.
   This helps to avoid duplication of effort during the sprint,
   and gives participants a way of coordinating additional discussions
   among themselves where appropriate to make progress on a task.
+  - Prompt participants to add their details to the shared notes,
+  so you can refer to it later and ensure everyone's contributions are recorded and proper credit is
+  given when publishing the lesson.
 - **Use a chat channel for communication outside check-ins.**
   To allow participants to "unplug" from video calls/move to separate locations for the bulk of the sprint,
   use a text-based chat such as Slack or Gitter for discussion when not
@@ -64,28 +68,18 @@
 - **Provide a way for contributors to mark their work ready for review.**
   If you prefer to require material is reviewed before being included in the lesson,
   give participants a way to signal when their contributions are ready.
-  You might consider providing guidance/assigning responsibilty for reviewers
+  You might consider providing guidance/assigning responsibility for reviewers
   of particular sections/types of contribution.
   If your lesson is being developed on GitHub, see the section below for more
   specific recommendations.
-- **Record information about participants and contributions.**
-  Prompt participants to add their details to the shared notes,
-  so you can refer to it later and ensure everyone's contributions are recorded.
-  Information to collect might include names, affiliations, preferred pronouns,
-  Orcid identifiers, GitHub usernames, and any other identifiers/handles that
-  are relevant or frequently used in your domain.
-  You may also wish to record the different ways in which participants are
-  contributing to the lesson during the sprint, to ensure proper credit is
-  given later e.g. when publishing the lesson.
-- **Complete any remaining reviews.**
-  Sprints often end with an influx of new material, as contributors finish up what they were working on as the event closed.
-  Other material developed earlier in the sprint may be awaiting review.
-  Making sure that these are reviewed and (where appropriate) merged into the lesson
-  ensures contributors develop a sense of accomplishment from the sprint,
+- **Reviewing contributions.**
+  Allocate 1-2 sessions in the sprint to review and approve contributions made by others.
+  If this is not planned in the event, sprints may end with an influx of new material as contributors finish up what they were working on as the event closed.
+  Make sure that each contribution is reviewed and if possible (and where appropriate), merged into the lesson. 
+  This allows contributors to leave the event with a sense of accomplishment from the sprint,
   and ties up any loose ends before new tasks are taken on to develop the material further.
-  If the participants who were originally assigned to review have had to leave,
-  the organisers should take over responsibility for these reviews to ensure they
-  are completed in a timely manner.
+  If the participants who were originally assigned to review have had to leave before the review session,
+  the organisers should delegate the review task to those who are available and willing to help finish the review process on time.
 
 ## Recommendations for GitHub
 
@@ -100,21 +94,21 @@
   [GitPod](https://gitpod.io/) may offer a way for participants to contribute to the lesson
   without the need for setting up a local development environment.
   As with the "primer" session mentioned above,
-  this skill-up may fit best at the beginning of the sprint,
-  before the first co-working session begins, or as a separate event
+  this skill-up may fit best at the beginning of the sprint.
+  This can also run as a separate event
   that takes place in the days leading up to the full sprint.
-- **Flag pull requests as draft and ready for review as you work.**
+- **Flag pull requests as a draft and ready for review as you work.**
   Opening draft pull requests early, while work on a task is ongoing,
   can help contributors understand where progress is being made and identify
   tasks/issues that still need to be tackled.
   Marking pull requests as ready for review helps maintainers prioritise their
   focus during the sprint and maintains momentum by ensuring that completed work
   is merged into the lesson as soon as possible.
-  Opening draft pull requests is particularly important at the end of a sprint,
+  Opening draft pull requests are particularly important at the end of a sprint,
   to capture progress up to that point even if a task hasn't yet been completed.
 - **Plan who will review pull requests.**
-  Make a plan for who will review each pull request.
-  As a group you can create list of reviewers by subject so the person who opens the pull request knows who is interested and capable of reviewing and can request a review accordingly.
+  Make a plan for who will review each pull request (PR).
+  As a group, you can create a list of reviewers by subject so the person who opens the pull request knows who is interested and capable of reviewing and can request a review accordingly.
   Alternatively, you may decide on a circle of reviewers. E.g. Aaliyah reviews Juan's PRs, Juan reviews Alex's PRs, and Alex reviews Aaliyah's PRs.
   Another option might be to ask for a reviewer when planning who will do the task.
   For particularly small groups where reviewing is more likely to become a bottleneck, or in cases where the main objective of the sprint is to create quantity rather than quality, you may decide it is acceptable for contributors to merge their own pull requests.
@@ -124,7 +118,7 @@
   As mentioned in the point above, this is particularly useful to ensure progress
   can continue on the lesson after the sprint has finished.
 - **Record contributions that do not (directly) result in commits.**
-  Some participants may be more comfortable writing matrial on a different platform
+  Some participants may be more comfortable writing material on a different platform
   e.g. Google Docs, which is later transferred to GitHub by someone else.
   Make use of GitHub's [commit co-author](https://github.blog/2018-01-29-commit-together-with-co-authors/) feature where possible or,
   if the author does not have a GitHub account,
