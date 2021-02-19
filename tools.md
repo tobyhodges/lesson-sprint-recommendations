@@ -43,6 +43,11 @@
   a meeting planner suggesting suitable times for events with attendees in multiple regions,
   an event announcement system displaying the start time and date of an event converted to the visitor's locale,
   and a time zone converter to check what time it is right now in another location around the world.
+- [Google Calendar](https://calendar.google.com) and other timezone-aware calendar
+  applications can be used to create entries for your event that will automatically
+  display in the local time of the person viewing the page/entry.
+  Alongside listing event times in UTC with a link to timeanddate.com (see above),
+  timezone-aware calendar events are essential to make your sprint inclusive to an international community.
 - [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/)
   provides an overview of the backwards lesson design approach recommended for lesson development by The Carpentries.
   It includes guidance on identifying the target audience of your lesson,
