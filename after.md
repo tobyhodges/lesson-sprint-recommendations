@@ -7,7 +7,7 @@
   A summary of progress made and next steps (with links to open issues/work-in-progress pull requests)
   will help you and your contributors appreciate the progress made during your sprint,
   and encourage efforts on the lesson to continue.
-  - Consider turning this overview into a blog post to share you experience and achievements with the wider community!
+  - Consider turning this overview into a blog post to share your experience and achievements with the wider community!
 - **Set a date for your next sprint!**
   Lesson development is an iterative process, with feedback and reflections from teaching the material
   often informing a new set of changes and updates to be made.

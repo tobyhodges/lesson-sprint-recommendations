@@ -7,7 +7,7 @@
   Shared timers such as this can be useful to help coordinate sprint
   sessions between check-ins.
 - [GitPod](https://www.gitpod.io/)
-  provides a cloud-based development environments for projects.
+  provides a cloud-based development environment for projects.
   The service can deliver an interactive development environment for a project
   on GitHub, with dependencies and environment setup already taken care of,
   allowing contributors to begin working on a project without needing to

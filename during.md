@@ -19,7 +19,7 @@
   record these check-ins so that those who could not join can catch up
   on the latest progress when they (re-)join the sprint.
   This is particularly important for sprints taking place
-  across mutliple sessions/days and/or a wide range of timezones.
+  across multiple sessions/days and/or a wide range of timezones.
   If you cannot record the check-in discussions,
   make sure to take extensive notes in a shareable location.
 - **Assign roles for check-ins.**
@@ -54,7 +54,7 @@
   to sprint participants by making use of threaded conversations.
   This will allow contributors to focus on their chosen task unless involved in
   a conversation directly relevant to them.
-- **Prep breakout rooms for small group discussion and co-working between check-ins.**
+- **Prepare breakout rooms for small group discussion and co-working between check-ins.**
   Open a small number of break out rooms for sprint participants to use during working sessions.
   This allows the participants to self-organize if they need to discuss something they are working on or co-work on a particular task.
   In Zoom, select the option to "Let participants choose room".
