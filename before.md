@@ -1,7 +1,7 @@
 # Before the Sprint
 
 - **Establish an organising committee.** Organising the sprint will be much easier if there are multiple people involved in planning and running the event.
-  Aim to create an organising committee with members from diverse backgrounds who can bring a broad perspective to create an accessible and inclusive event for your participants.
+  Aim to establish an organising committee with members from diverse backgrounds who can bring a broad perspective to create an accessible and inclusive event for your participants.
   If you have more than 2 people, be sure to assign roles and responsibilities to avoid diffusion of responsibility.
   
 - **Select a code of conduct.** If your lesson repository already has a code of conduct,
