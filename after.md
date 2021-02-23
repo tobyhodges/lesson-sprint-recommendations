@@ -28,7 +28,7 @@
   Do you have any advice or guidance for others who may follow these recommendations in future?
   If so, please contribute back to improve this resource!
   [The recommendations are maintained in this GitHub repository](https://github.com/tobyhodges/lesson-sprint-recommendations).
-  To tell us about changes you would like to see these recommendations,
+  To tell us about changes you would like to see to these recommendations,
   please email the authors (`tobyhodges@ carpentries.org`),
   [open an issue](https://github.com/tobyhodges/lesson-sprint-recommendations/issues/new)
   or contribute your changes directly in a [new pull request](https://github.com/tobyhodges/lesson-sprint-recommendations/pulls).
