@@ -118,7 +118,7 @@
   Marking pull requests as ready for review helps maintainers prioritise their
   focus during the sprint and maintains momentum by ensuring that completed work
   is merged into the lesson as soon as possible.
-  Opening draft pull requests are particularly important at the end of a sprint,
+  Opening draft pull requests is particularly important at the end of a sprint,
   to capture progress up to that point even if a task hasn't yet been completed.
 
 - **Plan who will review pull requests.**
