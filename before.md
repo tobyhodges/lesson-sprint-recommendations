@@ -30,7 +30,7 @@
     - Mailing lists for initial organisation and other important and more permanent communication, e.g. scheduling meetings.
     - **[Online]** Video conferencing technology that is an accessible choice for everyone and suitable for the format of the sprint.
     - Decide on the basic etiquette for participation, such as how to collect ideas, who to contact for support, how to participate in an ongoing discussion, how to contribute to content development and how to review contributions. 
-    - Collaborative note-taking platform is suitable for recording and communicating decisions, minutes and actions from meetings.
+    - Choose a collaborative note-taking platform for recording and communicating decisions, minutes and actions from meetings. (See [the tools section](tools.md) for details of some different note taking platforms.)
 
 - **Think about the timing of your sprint.**
     - You can run the sprint in conjunction with an upcoming event, e.g. a conference/meeting that many in your community will already be engaged with.
