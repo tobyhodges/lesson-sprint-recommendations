@@ -41,7 +41,7 @@
     - Conversely, you may want to avoid clashes with another event if your team is going to be engaged elsewhere or have other commitments.
     - Announce the dates for your sprint at least 6 weeks in advance. 
 
-- **Add dates and time in your calendar**: In addition to the event dates, schedule a few planning meetings with the committee members _before_ the sprint and one meeting _after_ the sprint for wrap-up/follow-up tasks.
+- **Add dates and time in your calendar**: In addition to the event dates, schedule a few planning meetings with the committee members _before_ the sprint and one meeting/co-working session _after_ the sprint for wrap-up/follow-up tasks.
     - When possible, offer a pre-event onboarding call that can be used for sharing all the relevant resources and setting expectations around what to expect at the event.
 
 - **Scope out what content will be worked on.**
