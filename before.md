@@ -99,5 +99,5 @@ There is a number of tools that in combination could be used for running effecti
   and even organise them further into categories to help contributors find something to work on.
   Even if you cannot invest time into managing issues to this extent,
   make sure open issues include all the contextual information necessary
-  for a new or part-time contributor to understanding what needs doing
+  for a new or part-time contributor to understand what needs doing
   and whether they can help.
