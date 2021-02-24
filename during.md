@@ -18,7 +18,7 @@
   We recommend using a web-based shared clock such as [cuckoo.team](https://cuckoo.team/) to keep track of co-working, share-out and breaks.
 
 - **Record information about participants and contributions.**
-  - Start your event by asking people to sign-in to the shared document by providing names, Orcid identifiers, GitHub usernames, and any other identifiers/handles that can be used to acknowledge their contributions.
+  - Start your event by asking people to sign-in to the shared document by providing names, [ORCID identifiers](https://orcid.org/), [GitHub usernames](https://github.com), and any other identifiers/handles that can be used to acknowledge their contributions.
   You can also ask you the participant to optionally provide their pronouns to ensure that everyone is addressed with their preferred pronouns.   
   - When working on an online repository, you can use issues to describe and assign tasks.
   This can also be directly done on the shared notes that everyone has access to.
