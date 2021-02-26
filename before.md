@@ -15,7 +15,7 @@
   establish communications norms, and divide responsibilities. (See below for more details.)
 - **Consider participants' roles and expertise.** 
   - Do you have a team with diverse skillsets and topic knowledge required to meet your high-level objectives? If not, consider finding and inviting other people.
-  - Consider the power dynamics in the group, e.g. if you have a PI and a early-career PhD candidate participating, how they can contribute effectively and comfortably.
+  - Consider the power dynamics in the group, e.g. if you have PIs and early-career PhD candidates participating, have seperate breakout rooms for each othe those groups so participants can comfortably discuss with peers (but report out at the end so folks can learn from other perspectives), have a moderator who keeps track how much folks are speaking and provide space and (gentle) prompts to encourage the lesser-spoken folks to speak, etc
 - **Establish communication channels and norms.** How will collaborators communicate before, during, and after the sprint?
     - Dedicated messaging channels have been used with success for conversations/short updates during the sprint and in-between sprint conversations.
     See [During the Sprint](/during.md) for more details.
