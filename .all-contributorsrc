@@ -95,5 +95,6 @@
   "projectOwner": "tobyhodges",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "contributorsSortAlphabetically": true
 }
