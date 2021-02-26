@@ -36,6 +36,9 @@
     if your team is going to be engaged elsewhere or have other commitments.
 - **Consider promoting the sprint.** Generally, you might want to promote your upcoming sprint to attract other contributors.
     - Consider whether you need a system to track participation for the Sprint, e.g. a Google Form/Eventbrite page
+      - You may not need this if you already have dedicated communication channels (see "establish communication channels and norms") and the Sprint is open to everyoen in those channels
+      - You may want to collect additional information from participants, e.g. if there are multiple parallel discussion topics, which discussion they'd like to participate in; dietary requirements and emergency contact information for in-person events; accessibility needs and time zone for virtual events
+      - Tools like Eventbrite allow organisers to easily send emails to all attendees, e.g. reminders and follow-ups.
 - **Provide time zone-converted event times for remote participants.**
   For sprints running online with the potential for participants from multiple
   regions/time zones,
