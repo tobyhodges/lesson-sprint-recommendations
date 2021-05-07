@@ -4,7 +4,7 @@
   When possible store all the shareable documents in a central repository or shared drive so they are easy to find.
   One main document should be created to share links to all the resources that will be used for the sprint.
   This document should be kept visible to all participants and persist beyond the end of the sprint.
-  
+
 - **Run a "sprint primer" session.** A primer session helps contributors get oriented with the structure of your lesson and its associated repository,
   the setup required to work on the lesson
   (e.g. local builds to preview lesson webpages),
@@ -12,14 +12,11 @@
   You could run this primer session a week or two days before the sprint begins.
   This can also be the first session of the sprint event before co-working sessions begin.
 
-- **Divide co-working sessions with scheduled check-ins** 
-  Plan your sprint to have several co-working sessions that are followed by check-ins or report outs to allow contributors to reflect on their progress.
-  This will also allow them to share what they've achieved, what's blocking their progress, where they would like some feedback and what they intend to do next.
-  We recommend using a web-based shared clock such as [cuckoo.team](https://cuckoo.team/) to keep track of co-working, share-out and breaks.
+- **Start the video conference call 10 mins ahead of official start time. [Online]** To allow newcomers and first-time participants to get familiar with tools, test audio and video set up, warm up, etc.
 
 - **Record information about participants and contributions.**
   - Start your event by asking people to sign-in to the shared document by providing names, [ORCID identifiers](https://orcid.org/), [GitHub usernames](https://github.com), and any other identifiers/handles that can be used to acknowledge their contributions.
-  You can also ask you the participant to optionally provide their pronouns to ensure that everyone is addressed with their preferred pronouns.   
+  You can also ask you the participant to optionally provide their pronouns to ensure that everyone is addressed with their preferred pronouns.
   - When working on an online repository, you can use issues to describe and assign tasks.
   This can also be directly done on the shared notes that everyone has access to.
   This helps to avoid duplication of effort during the sprint,
@@ -28,7 +25,12 @@
   - Prompt participants to add their details to the shared notes,
   so you can refer to it later and ensure everyone's contributions are recorded and proper credit is
   given when publishing the lesson.
-  
+
+- **Divide co-working sessions with scheduled check-ins**
+  Plan your sprint to have several co-working sessions that are followed by check-ins or report outs to allow contributors to reflect on their progress.
+  This will also allow them to share what they've achieved, what's blocking their progress, where they would like some feedback and what they intend to do next.
+  We recommend using a web-based shared clock such as [cuckoo.team](https://cuckoo.team/) to keep track of co-working, share-out and breaks.
+
 - **Record the check-ins.**
   If technically possible, and provided all participants consent,
   record these check-ins (video or written) so that those who could not join can catch up
@@ -54,6 +56,9 @@
     - an _Issue/Task Creator_, who keeps track of actions that arise from the check-in discussion and creates an issue or describes the task in the shared notes.
     - a _Notetaker_, who takes minutes of what is discussed in the check-in.
       In some instances, it may be possible to combine the roles of Notetaker and Task Creator.
+
+- **Consider participants' roles and expertise.**
+  - Consider the power dynamics in the group, e.g. if you have PIs and early-career PhD candidates participating, have seperate breakout rooms for each of those groups so participants can comfortably discuss with peers (but report out at the end so folks can learn from other perspectives), have a moderator who keeps track how much folks are speaking and provide space and (gentle) prompts to encourage the lesser-spoken folks to speak, etc
 
 - **Use a chat channel for communication outside check-ins.**
   To allow participants to "unplug" from video calls/move to separate locations for the bulk of the sprint,
@@ -83,12 +88,12 @@
 - **Reviewing contributions.**
   Allocate 1-2 sessions in the sprint to review and approve contributions made by others.
   If this is not planned in the event, sprints may end with an influx of new material as contributors finish up what they were working on as the event closed.
-  Make sure that each contribution is reviewed and if possible (and where appropriate), merged into the lesson. 
+  Make sure that each contribution is reviewed and if possible (and where appropriate), merged into the lesson.
   This allows contributors to leave the event with a sense of accomplishment from the sprint,
   and ties up any loose ends before new tasks are taken on to develop the material further.
   If the participants who were originally assigned to review have had to leave before the review session,
   the organisers should delegate the review task to those who are available and willing to help finish the review process on time.
-  
+
 - **Ask for feedback.**
   Allocate a short feedback session before closing the event.
   Feedback should be kept short and recorded anonymously via a feedback form or shared document (that does not require signing in).

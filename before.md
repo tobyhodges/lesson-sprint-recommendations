@@ -11,6 +11,7 @@
   Instead, re-use/adapt an existing text you find online.
   We recommend [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html),
   which was designed with exactly these kinds of project in mind.
+<<<<<<< HEAD
   Assign at least one person as the contact person/facilitator for
   matters relating to the Code of Conduct,
   and make sure all sprint participants are aware of who this is and how they should connect with them.
@@ -25,6 +26,15 @@
   Divide responsibilities to put together resources (such as for communication and norms) that will be shared with all participants. (See below for more details.)
   
 - **Establish communication channels and norms.** This will set an expectation for how collaborators will communicate before, during, and after the sprint.
+=======
+- **Have a meeting/video call between the committee** to agree on the timing, format,
+  target audience in suffient detail and high-level objectives of your sprint,
+  establish communications norms, and divide responsibilities. (See below for more details.)
+- **Consider participants' roles and expertise.** 
+  - Do you have a team with diverse skillsets and topic knowledge required to meet your high-level objectives? If not, consider finding and inviting other people.
+  - Consider the power dynamics in the group, e.g. if you have PIs and early-career PhD candidates participating, have seperate breakout rooms for each othe those groups so participants can comfortably discuss with peers (but report out at the end so folks can learn from other perspectives), have a moderator who keeps track how much folks are speaking and provide space and (gentle) prompts to encourage the lesser-spoken folks to speak, etc
+- **Establish communication channels and norms.** How will collaborators communicate before, during, and after the sprint?
+>>>>>>> emmy/patch-1
     - Dedicated messaging channels have been used with success for conversations/short updates during the sprint and in-between sprint conversations.
     See [During the Sprint](/during.md) for more details.
     - Mailing lists for initial organisation and other important and more permanent communication, e.g. scheduling meetings.
@@ -38,12 +48,36 @@
     convince them to block time in their calendar to join in with the sprint.
     You may also be able to tap into the promotional communications etc. for that event,
     and/or invite people to join the sprint, e.g. via a lightning talk or poster.
+<<<<<<< HEAD
     - Conversely, you may want to avoid clashes with another event if your team is going to be engaged elsewhere or have other commitments.
     - Announce the dates for your sprint at least 6 weeks in advance. 
 
 - **Add dates and time in your calendar**: In addition to the event dates, schedule a few planning meetings with the committee members _before_ the sprint and one meeting/co-working session _after_ the sprint for wrap-up/follow-up tasks.
     - When possible, offer a pre-event onboarding call that can be used for sharing all the relevant resources and setting expectations around what to expect at the event.
 
+=======
+    - Conversely, you may want to avoid planning the sprint that clashes with another event
+    if your team is going to be engaged elsewhere or have other commitments.
+- **Consider promoting the sprint.** Generally, you might want to promote your upcoming sprint to attract other contributors.
+    - Consider whether you need a system to track participation for the Sprint, e.g. a Google Form/Eventbrite page
+      - You may not need this if you already have dedicated communication channels (see "establish communication channels and norms") and the Sprint is open to everyoen in those channels
+      - You may want to collect additional information from participants, e.g. if there are multiple parallel discussion topics, which discussion they'd like to participate in; dietary requirements and emergency contact information for in-person events; accessibility needs and time zone for virtual events
+      - Tools like Eventbrite allow organisers to easily send emails to all attendees, e.g. reminders and follow-ups.
+- **Provide time zone-converted event times for remote participants.**
+  For sprints running online with the potential for participants from multiple
+  regions/time zones,
+  it is vital to announce time(s) and date(s) for your sprint in a way that
+  allows visitors to see the equivalent in their local time.
+  Using tools like [timeanddate.com](https://timeanddate.com) can make this much easier.
+- **Block time in your calendar _after_ the sprint** for wrap-up/follow-up tasks.
+- **Create operational guidance for the sprint.**
+    - Define roles to make sure everyone is included and gets a chance to contribute, e.g.
+        - Sprint facilitator (to make sure discussions are on track)
+        - Issue reporter (to make sure all issues/tasks are reported and assigned)
+        - Time keeper (to make sure activities are kept to time)
+        - Note taker (dedicated and/or everyone)
+    - You may choose to rotate the roles during the sprint check-ins.
+>>>>>>> emmy/patch-1
 - **Scope out what content will be worked on.**
   Defining objectives and which sections/aspects of the lesson should be worked on during the sprint
   will reduce the energy/time required for contributors to begin working and help to keep efforts focused during the event.
@@ -59,6 +93,10 @@
   **[Online]** If your sprint is taking place across multiple sessions,
   or will include multiple video calls between participants, try to provide a single meeting link for them all.
   This will save contributors time when returning to the sprint calls, e.g. for a check-in session or after a break.
+- **Communicate participation information and send reminders before the Sprint**
+    - Send short reminders a week and a day before the Sprint, with time and date, video conferencing URL, note docs and any prior preparation work
+    - If prior reading/preparation is required, give at least a week lead time
+    - Think of a way to let participants withdraw their participation/leave early/join late comfortably; this helps especially for folks juggling with multiple responsibilities
 
 - **Use time zone-converted event links for remote participants.**
   **[Online]** For sprints running online with the potential for participants from multiple
